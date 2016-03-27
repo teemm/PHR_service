@@ -45,5 +45,12 @@ $route['home'] = 'home';
 $route['admin'] = 'admin/home';
 $route['admin/(:any)'] = 'admin/$1';
 
+$route['ShortNews'] = 'Service/ShortNews';
+$route['FullNews'] = 'Service/FullNews';
+$route['ShortTeam'] = 'Service/ShortTeam';
+$route['FullTeam'] = 'Service/FullTeam';
+$route['ShortProjects'] = 'Service/ShortProjects';
+$route['FullProjects'] = 'Service/FullProjects';
+$route['DonorsAndPartners'] = 'Service/DonorsAndPartners';
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

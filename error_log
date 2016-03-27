@@ -1,0 +1,27 @@
+[03-Mar-2015 12:42:33 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Calendar::setTime() in /home/phrge/public_html/application/controllers/base.php on line 200
+[03-Mar-2015 12:42:52 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Calendar::setTime() in /home/phrge/public_html/application/controllers/base.php on line 200
+[03-Mar-2015 12:49:43 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/phrge/public_html/application/controllers/home.php on line 17
+[03-Mar-2015 12:53:26 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '<' in /home/phrge/public_html/application/controllers/home.php on line 11
+[03-Mar-2015 13:43:52 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::validate_form() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[03-Mar-2015 13:45:52 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::validate_form() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[03-Mar-2015 13:46:17 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::validate_form() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[03-Mar-2015 13:46:21 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::validate_form() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[03-Mar-2015 13:46:26 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::validate_form() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[03-Mar-2015 13:59:39 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::test_lib() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[03-Mar-2015 14:03:35 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::test_lib() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[03-Mar-2015 14:19:16 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:22:41 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:23:22 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:23:26 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:24:16 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:24:20 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:24:42 Asia/Tbilisi] PHP Fatal error:  Class 'Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:26:29 Asia/Tbilisi] PHP Fatal error:  Class 'Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:26:35 Asia/Tbilisi] PHP Fatal error:  Class 'Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:26:53 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:27:37 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '/', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:27:58 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '/', expecting '{' in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:28:30 Asia/Tbilisi] PHP Fatal error:  Class 'CI_Form_validation' not found in /home/phrge/public_html/application/libraries/auth.php on line 3
+[03-Mar-2015 14:54:25 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Upload::do_multi_upload() in /home/phrge/public_html/application/controllers/admin/fileManager.php on line 107
+[03-Mar-2015 15:06:15 Asia/Tbilisi] PHP Fatal error:  Call to undefined method CI_Form_validation::validate_form() in /home/phrge/public_html/application/controllers/admin/auth.php on line 17
+[07-Jul-2015 12:50:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/phrge/public_html/application/controllers/admin/auth.php on line 18

@@ -1,0 +1,24 @@
+.tree-icon {
+	height: 16px;
+	width: 16px;
+}
+
+/*.x-tree-icon-parent {
+	background-image: url(/assets/images/icons/file/closed_folder.png);
+}
+
+.x-grid-tree-node-expanded .x-tree-icon-parent {
+	background-image: url(/assets/images/icons/file/open_folder.png);
+}
+*/
+.root {
+	background-image: url(/assets/images/icons/file/root_closed_folder.png);
+}
+.x-grid-tree-node-expanded .root {
+	background-image: url(/assets/images/icons/file/root_open_folder.png);
+}
+
+.logout {
+	width: 85px !important;
+	left: 907px !important;
+}

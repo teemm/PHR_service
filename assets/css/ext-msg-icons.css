@@ -1,0 +1,39 @@
+.error
+{
+    background: url("../images/icons/error.png") no-repeat;
+}
+
+.fail
+{
+    background: url("../images/icons/fail.png") no-repeat;
+}
+
+.warning
+{
+    background: url("../images/icons/warning.png") no-repeat;
+}
+
+.attach
+{
+    background: url("../images/icons/attach.png") no-repeat;
+}
+
+.success
+{
+    background: url("../images/icons/success.png") no-repeat;
+}
+
+.plus
+{
+    background: url("../images/icons/plus.png") no-repeat;
+}
+
+.minus
+{
+    background: url("../images/icons/minus.png") no-repeat;
+}
+
+.question
+{
+    background: url("../images/icons/question.png") no-repeat;
+}

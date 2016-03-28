@@ -51,6 +51,7 @@ $route['ShortTeam'] = 'Service/ShortTeam';
 $route['FullTeam'] = 'Service/FullTeam';
 $route['ShortProjects'] = 'Service/ShortProjects';
 $route['FullProjects'] = 'Service/FullProjects';
-$route['DonorsAndPartners'] = 'Service/DonorsAndPartners';
+$route['Partners'] = 'Service/Partners';
+$route['Donors'] = 'Service/Donors';
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

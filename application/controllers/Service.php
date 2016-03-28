@@ -24,7 +24,10 @@ class Service extends CI_Controller {
 	public function FullProjects(){
 		echo json_encode($this->Model_Service->FullProjects());
 	}
-	public function DonorsAndPartners(){
-		echo json_encode($this->Model_Service->DonorsAndPartners());
+	public function Partners(){
+		echo json_encode($this->Model_Service->Partners());
+	}
+	public function Donors(){
+		echo json_encode($this->Model_Service->Donors());
 	}
 }

@@ -12,6 +12,10 @@ class Model_Service extends CI_Model {
 			$query[$key]['short_desc_en']=strip_tags($value['short_desc_en']);
 			$query[$key]['short_desc_ka']=strip_tags($value['short_desc_ka']);
 			$query[$key]['short_desc_ru']=strip_tags($value['short_desc_ru']);
+
+			$query[$key]['title_ka']=strip_tags($value['title_ka']);
+			$query[$key]['title_en']=strip_tags($value['title_en']);
+			$query[$key]['title_ru']=strip_tags($value['title_ru']);			
 		}
 		return $query;
 	}
@@ -25,6 +29,10 @@ class Model_Service extends CI_Model {
 			$query[$key]['desc_ka']=strip_tags($value['desc_ka']);
 			$query[$key]['desc_en']=strip_tags($value['desc_en']);
 			$query[$key]['desc_ru']=strip_tags($value['desc_ru']);
+
+			$query[$key]['title_ka']=strip_tags($value['title_ka']);
+			$query[$key]['title_en']=strip_tags($value['title_en']);
+			$query[$key]['title_ru']=strip_tags($value['title_ru']);
 		}
 		return $query;
 	}
@@ -38,6 +46,10 @@ class Model_Service extends CI_Model {
 			$query[$key]['short_desc_en']=strip_tags($value['short_desc_en']);
 			$query[$key]['short_desc_ka']=strip_tags($value['short_desc_ka']);
 			$query[$key]['short_desc_ru']=strip_tags($value['short_desc_ru']);
+
+			$query[$key]['title_ka']=strip_tags($value['title_ka']);
+			$query[$key]['title_en']=strip_tags($value['title_en']);
+			$query[$key]['title_ru']=strip_tags($value['title_ru']);			
 		}
 		return $query;
 	}
@@ -51,6 +63,10 @@ class Model_Service extends CI_Model {
 			$query[$key]['desc_ka']=strip_tags($value['desc_ka']);
 			$query[$key]['desc_en']=strip_tags($value['desc_en']);
 			$query[$key]['desc_ru']=strip_tags($value['desc_ru']);
+
+			$query[$key]['title_ka']=strip_tags($value['title_ka']);
+			$query[$key]['title_en']=strip_tags($value['title_en']);
+			$query[$key]['title_ru']=strip_tags($value['title_ru']);			
 		}
 		return $query;
 	}
@@ -64,6 +80,10 @@ class Model_Service extends CI_Model {
 			$query[$key]['short_desc_en']=strip_tags($value['short_desc_en']);
 			$query[$key]['short_desc_ka']=strip_tags($value['short_desc_ka']);
 			$query[$key]['short_desc_ru']=strip_tags($value['short_desc_ru']);
+
+			$query[$key]['title_ka']=strip_tags($value['title_ka']);
+			$query[$key]['title_en']=strip_tags($value['title_en']);
+			$query[$key]['title_ru']=strip_tags($value['title_ru']);			
 		}
 		return $query;
 	}
@@ -77,6 +97,10 @@ class Model_Service extends CI_Model {
 			$query[$key]['desc_en']=strip_tags($value['desc_en']);
 			$query[$key]['desc_ka']=strip_tags($value['desc_ka']);
 			$query[$key]['desc_ru']=strip_tags($value['desc_ru']);
+
+			$query[$key]['title_ka']=strip_tags($value['title_ka']);
+			$query[$key]['title_en']=strip_tags($value['title_en']);
+			$query[$key]['title_ru']=strip_tags($value['title_ru']);			
 		}
 		return $query;
 	}
